@@ -1,0 +1,1882 @@
+<rdf:RDF>
+<gnoss:ResultSet rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/MapasDidactalia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">ResultSet</rdfs:label>
+<gnoss:Page rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</gnoss:Page>
+<gnoss:ItemsPerPage rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</gnoss:ItemsPerPage>
+<gnoss:NumberOfResults rdf:datatype="http://www.w3.org/2001/XMLSchema#int">548</gnoss:NumberOfResults>
+<gnoss:Results rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/provincias-de-espaa/108fb9ee-6654-465a-a9ed-e84be977a27a"/>
+<gnoss:Results rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/relieve-de-espaa/b08c36e5-ed54-46e1-995f-354b59d8dd08"/>
+<gnoss:Results rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/comunidades-autonomas-de-espaa/9d65ad7b-1679-44ad-951f-e0a275288cde"/>
+<gnoss:Results rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/rios-de-espaa/6b90cb5d-8084-4d44-9cc6-990fe7068e38"/>
+<gnoss:Results rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/rios-de-espaa/baf5ae9b-b0f9-4476-a05e-8465d60b21a1"/>
+<gnoss:Results rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/relieve-de-europa/a62b3ad4-afed-4e56-ad45-2c3ac42c0a81"/>
+<gnoss:Results rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/mapa-de-europa-paises/4d575284-caef-4352-a22a-1a64e6c93337"/>
+<gnoss:Results rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/estados-de-mexico/23c9a9ce-1070-4c34-8bc1-034f0906a433"/>
+<gnoss:Results rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/paises-de-asia/bc63038f-2f18-4d0c-9580-ce82c37d8015"/>
+<gnoss:Results rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/paises-de-africa/1ec30038-fd1a-4dcb-9a91-01217efdd8c2"/>
+<gnoss:Results rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/rios-de-europa/0973d01b-60b4-403d-9954-1963fa5f8cc5"/>
+<gnoss:Results rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/paises-de-america-del-sur/55343e4e-621e-4bba-8f37-ba956a6fd5ca"/>
+</gnoss:ResultSet>
+<sioc:Item rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/provincias-de-espaa/108fb9ee-6654-465a-a9ed-e84be977a27a">
+</sioc:Item>
+<foaf:Group rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/organizacion/equipoGNOSS/">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">Equipo Didactalia</rdfs:label>
+<foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Equipo Didactalia</foaf:name>
+</foaf:Group>
+<skos:Concept rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/provincias/1bb7ebcb-bed4-4cde-a0b3-012d5da54dfd">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">Provincias</rdfs:label>
+<skos:prefLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Provincias</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/mapas-de-didactalia/c0aa86c1-9288-4ea8-a35c-fbd6565cfb43">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">Mapas de Didactalia</rdfs:label>
+<skos:prefLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mapas de Didactalia</skos:prefLabel>
+</skos:Concept>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/provincias%20de%20espa%c3%b1a">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">provincias de españa</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/cantabria">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">cantabria</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Cantabria"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3109716/"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3336898/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/c%c3%a1diz">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">cádiz</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Cádiz"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/%c3%a1lava">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">álava</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Álava"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3130717/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/albacete">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">albacete</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Albacete"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2522258/"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6355295/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/gerona">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">gerona</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Girona"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6534067/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/huelva">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">huelva</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Huelva"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6358217/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/huesca">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">huesca</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Huesca"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3120514/"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6358352/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/islas%20baleares">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">islas baleares</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Balearic_Islands"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2521383/"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6424360/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/ja%c3%a9n">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">jaén</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Jaén,_Spain"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2516395/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/lugo">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">lugo</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Lugo"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6359189/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/madrid">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">madrid</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Madrid"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3117735/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/navarra">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">navarra</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Navarre"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3115609/"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6355235/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/palencia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">palencia</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Palencia"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3114531/"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6360072/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/sevilla">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">sevilla</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Seville"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2510911/"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6361046/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/zaragoza">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">zaragoza</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Zaragoza"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3104324/"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6362983/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/c%c3%b3rdoba%20(espa%c3%b1a)">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">córdoba (españa)</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Córdoba,_Andalusia"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2519240/"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6357216/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/orense">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">orense</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Ourense"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3114965/"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6359872/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/cuenca%20(espa%c3%b1a)">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">cuenca (españa)</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Cuenca,_Spain"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3124132/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/la%20rioja%20(espa%c3%b1a)">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">la rioja (españa)</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/La_Rioja_(Spain)"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3336897/"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6355232/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20provincias%20de%20espa%c3%b1a">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">mapa provincias de españa</rdfs:label>
+</sioc_t:Tag>
+<sioc:Item rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/relieve-de-espaa/b08c36e5-ed54-46e1-995f-354b59d8dd08">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">Relieve de España</rdfs:label>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="es">
+<p>&iquest;Recuerdas d&oacute;nde est&aacute; el sistema b&eacute;tico? &iquest; y el sistema central o la submeseta sur? Pon a prueba tus conocimientos del relieve con este juego interactivo.</p> <p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="fr">
+<p>Sauriez-vous localiser sur la carte chaque entit&eacute; g&eacute;ographique? Vous devez indiquer sur la carte exactement o&ugrave; se trouve chacune.</p><p>Agrandissez o r&eacute;duisez la carte avec le zoom et ajustez sa taille &agrave; l&#39;&eacute;cran de votre appareil. Vous pouvez &eacute;galement cliquer sur la carte et faites glisser vers le centre.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="en">
+<p>Try to figure where is located on the map each item of the spanish physical relief given.</p><p>Zoom in or zoom out the map in order to adjust it to the size of your desktop&rsquo;s device. You also can click on it and drag to centre the image.</p><p>&nbsp;</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="de">
+<p>K&ouml;nntest Du, die geographische Objekte ausfinding manche? Du musst auf die Landkarte genau zeigen, wo jeder sich befindet.</p><p>Vergr&ouml;&szlig;ern oder verkleinern Sie die Karte mit dem Zoom, und anpassen Sie ihre Gr&ouml;&szlig;e&nbsp;um den Bildschirm des Ger&auml;ts. Sie k&ouml;nnen auch auf die Karte klicken und die zum Zentrum ziehen.&nbsp;</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="eu">
+<p>Aipatutako lekuak kokatuko zenituzke? Mapan zehazki seinalatu behar duzu non aurkitzen den leku bakoitza.</p><p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="gl">
+<p>Saber&iacute;as situar os elementos xeogr&aacute;ficos polos que che preguntan? Tes que sinalar no mapa onde se encontra exactamente cada un.</p><p>Ampl&iacute;a ou reduce o mapa co zoom e axusta o seu tama&ntilde;o &aacute; pantalla do teu dispositivo. Tam&eacute;n podes clicar sobre o mapa e arrastralo para centralo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="pt">
+<p>Consegue encontrar os elementos geogr&aacute;ficos pedidos? Tem de assinalar no mapa onde se encontra exatamente cada um.</p><p>Amplia ou reduz o mapa com o zoom e ajusta seu tamanho para a tela do seu dispositivo. Voc&ecirc; tamb&eacute;m pode clicar no mapa e arraste para o centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="it">
+<p>Sapresti individuare gli elementi geografici richiesti? Segna sulla mappa dove si trovano i cosiddetti elementi.</p><p>Ingrandisci o riduci la mappa con lo zoom e regola le dimensioni sullo schermo del dispositivo. &Egrave; inoltre possibile fare clic sulla mappa e trascinarla al centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="ca">
+<p>Saps situar els elements geogr&agrave;fics que et demanen? Has d&rsquo;assenyalar al mapa on es troba cada element.</p><p>Amplia o redueix el mapa amb el zoom i ajusta la seva mida a la pantalla del teu dispositiu. Tamb&eacute; pots clicar sobre el mapa i arrossegar per centrar-lo.</p>
+</sioc:content>
+<dc:creator rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">didactalia</dc:creator>
+<dcterms:created rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">2019-04-04T11:55:22+02:00</dcterms:created>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Relieve de España</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="pt">O relevo da Espanha</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">Physical relief of Spain</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="gl">Relevo de España</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="de">Relief von Spanien</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ca">El relleu d'Espanya</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="eu">Espainiako erliebea</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="it">I rilievi della Spagna</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="fr">Le relief d'Espagne</dcterms:title>
+<dcterms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">
+mapa-de-relieve-de-espaa-donde-esta-mapa-de-didact.rdf.rdf
+</dcterms:source>
+<gnoss:has_docSem rdf:resource="http://didactalia.net/items/Map_b08c36e5-ed54-46e1-995f-354b59d8dd08_4f7c7fa6-90cd-4520-8ca7-dc62dd786edc"/>
+<sioc:has_creator rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/organizacion/equipoGNOSS/"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/relieve/b07b35cd-fbda-4cd4-acf3-5af1c9b34547"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/mapas-de-didactalia/c0aa86c1-9288-4ea8-a35c-fbd6565cfb43"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/relieve%20de%20espa%c3%b1a"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/depresi%c3%b3n%20del%20guadalquivir"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/depresi%c3%b3n%20del%20ebro"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/montes%20de%20toledo"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/macizo%20galaico-leon%c3%a9s"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/pirineos"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/cordillera%20cant%c3%a1brica"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20de%20espa%c3%b1a"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/sistema%20central"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/sistema%20ib%c3%a9rico"/>
+<dcterms:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+</sioc:Item>
+<skos:Concept rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/relieve/b07b35cd-fbda-4cd4-acf3-5af1c9b34547">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">Relieve</rdfs:label>
+<skos:prefLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Relieve</skos:prefLabel>
+</skos:Concept>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/relieve%20de%20espa%c3%b1a">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">relieve de españa</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/depresi%c3%b3n%20del%20guadalquivir">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">depresión del guadalquivir</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Baetic_Depression"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/depresi%c3%b3n%20del%20ebro">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">depresión del ebro</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/montes%20de%20toledo">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">montes de toledo</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Montes_de_Toledo"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/macizo%20galaico-leon%c3%a9s">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">macizo galaico-leonés</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Galician_Massif"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/pirineos">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">pirineos</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Pyrenees"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3112616/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/cordillera%20cant%c3%a1brica">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">cordillera cantábrica</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Cantabrian_Mountains"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3126520/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20de%20espa%c3%b1a">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">mapa de españa</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/sistema%20central">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">sistema central</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sistema_Central"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/sistema%20ib%c3%a9rico">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">sistema ibérico</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sistema_Ibérico"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3120475/"/>
+</sioc_t:Tag>
+<sioc:Item rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/comunidades-autonomas-de-espaa/9d65ad7b-1679-44ad-951f-e0a275288cde">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">Comunidades autónomas de España</rdfs:label>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="es">
+<p>Elige de la lista propuesta cada una de las comunidades aut&oacute;nomas de Espa&ntilde;a&nbsp;que te va se&ntilde;alando el mapa.</p> <p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="en">
+<p>Do you know what is the name of each geographical item shown on the map? Test yourself with this interactive map, you have to choose the right answer from a list of several options.</p> <p>Zoom in or zoom out the map in order to adjust it to the size of your desktop&rsquo;s device. You also can click on it and drag to centre the image.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="pt">
+<p>Conhece o nome de cada elemento geogr&aacute;fico assinalado no mapa? Coloque-se &agrave; prova com este mapa interativo. Tem de escolher a resposta correta de uma lista de v&aacute;rias op&ccedil;&otilde;es.</p> <p>Amplia ou reduz o mapa com o zoom e ajusta seu tamanho para a tela do seu dispositivo. Voc&ecirc; tamb&eacute;m pode clicar no mapa e arraste para o centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="ca">
+<p>Coneixes el nom de cada element geogr&agrave;fic assenyalat al mapa? Posa&rsquo;t a prova amb aquest mapa interactiu. Has de triar la resposta adequada d&rsquo;una llista amb diverses opcions.</p> <p>Amplia o redueix el mapa amb el zoom i ajusta la seva mida a la pantalla del teu dispositiu. Tamb&eacute; pots clicar sobre el mapa i arrossegar per centrar-lo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="gl">
+<p>Co&ntilde;eces o nome de cada elemento xeogr&aacute;fico sinalado no mapa? Ponte a proba con este mapa interactivo. Tes que elixir a resposta axeitada dun listado con varias opci&oacute;ns.</p> <p>Ampl&iacute;a ou reduce o mapa co zoom e axusta o seu tama&ntilde;o &aacute; pantalla do teu dispositivo. Tam&eacute;n podes clicar sobre o mapa e arrastralo para centralo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="fr">
+<p>Connaissez-vous les noms de chaque entit&eacute; g&eacute;ographique indiqu&eacute;e sur la carte? Testez-vous avec cette carte interactive. Vous devez choisir la bonne r&eacute;ponse parmi une liste d&#39;options.</p> <p>Agrandissez o r&eacute;duisez la carte avec le zoom et ajustez sa taille &agrave; l&#39;&eacute;cran de votre appareil. Vous pouvez &eacute;galement cliquer sur la carte et faites glisser vers le centre.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="de">
+<p>Kennst du die Namen der geographischen Objekte auf der Karte? Test du dich selbst mit dieser interaktiven Karte. Du hast die richtige Antwort aus einer Liste mit mehreren Optionen w&auml;hlen.</p> <p>Vergr&ouml;&szlig;ern oder verkleinern Sie die Karte mit dem Zoom, und anpassen Sie ihre Gr&ouml;&szlig;e&nbsp;um den Bildschirm des Ger&auml;ts. Sie k&ouml;nnen auch auf die Karte klicken und die zum Zentrum ziehen.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="it">
+<p>Conosci il nome di ogni elemento geografico segnato sulla mappa? Mettiti alla prova con questa mappa interattiva. Scegli la risposta giusta tra le varie opzioni proposte.</p> <p>Ingrandisci o riduci la mappa con lo zoom e regola le dimensioni sullo schermo del dispositivo. &Egrave; inoltre possibile fare clic sulla mappa e trascinarla al centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="eu">
+<p>Mapan adierazitako leku bakoitzeko izena ezagutzen duzu? Mapa elkarreragile honetan proba ezazu!. Hainbat aukera dituen zerrenda batetik erantzun egokia aukeratu behar duzu.</p> <p>Zoomarekin irudia handiagotu edo txikiagotu dezakezu, eta horrela bere tamaina zure gailuko paintailari egokitu. &nbsp;Irudiaren gainean eragin eta hura erdiratzeko arrastatu dezakezu ere.</p>
+</sioc:content>
+<dc:creator rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">didactalia</dc:creator>
+<dcterms:created rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">2016-12-11T23:31:54+01:00</dcterms:created>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Comunidades autónomas de España</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">Autonomous Communities of Spain</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="de">Autonome Gemeinschaften von Spanien</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="fr">Communautés Autonomes d'Espagne</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="pt">Comunidades Autónomas da Espanha</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="gl">Comunidades autónomas de España</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ca">Comunitats Autònomes d'Espanya</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="it">Comunità autonome della Spagna</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="eu">Espainiako Erkidego Autonomoak</dcterms:title>
+<dcterms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">
+comunidades-autonomas-de-espaa-como-se-llama-mapa-.rdf.rdf
+</dcterms:source>
+<gnoss:has_docSem rdf:resource="http://didactalia.net/items/Map_9d65ad7b-1679-44ad-951f-e0a275288cde_bf92fc8e-659f-455f-9a3f-96a96e635ffe"/>
+<sioc:has_creator rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/organizacion/equipoGNOSS/"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/comunidades-autonomas/9474ad03-eb00-4855-91d0-26b0fd07d09a"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/mapas-de-didactalia/c0aa86c1-9288-4ea8-a35c-fbd6565cfb43"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/comunidades%20aut%c3%b3nomas%20de%20espa%c3%b1a"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/espa%c3%b1a"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/arag%c3%b3n"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/canarias"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/cantabria"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/castilla"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/le%c3%b3n"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/castilla-la%20mancha"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/andaluc%c3%ada"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/castilla%20y%20le%c3%b3n"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/catalu%c3%b1a"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/ciudad%20aut%c3%b3noma%20de%20ceuta"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/ciudad%20aut%c3%b3noma%20de%20melilla"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/comunidad%20de%20madrid"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/comunidad%20foral%20de%20navarra"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/comunidad%20valenciana"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/extremadura"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/galicia"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/islas%20baleares"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/la%20rioja"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/pa%c3%ads%20vasco"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/principado%20de%20asturias"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/regi%c3%b3n%20de%20murcia"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20de%20espa%c3%b1a"/>
+<dcterms:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+</sioc:Item>
+<skos:Concept rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/comunidades-autonomas/9474ad03-eb00-4855-91d0-26b0fd07d09a">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">Comunidades Autónomas</rdfs:label>
+<skos:prefLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comunidades Autónomas</skos:prefLabel>
+</skos:Concept>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/comunidades%20aut%c3%b3nomas%20de%20espa%c3%b1a">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">comunidades autónomas de españa</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/espa%c3%b1a">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">españa</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Spain"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2510769/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/arag%c3%b3n">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">aragón</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Aragon"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3336899/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/canarias">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">canarias</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Canary_Islands"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2520308/"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2593110/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/castilla">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">castilla</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/le%c3%b3n">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">león</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/castilla-la%20mancha">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">castilla-la mancha</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Castilla-La_Mancha"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/andaluc%c3%ada">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">andalucía</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Andalusia"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2593109/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/castilla%20y%20le%c3%b3n">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">castilla y león</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Castile_and_León"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3336900/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/catalu%c3%b1a">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">cataluña</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Catalonia"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3336901/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/ciudad%20aut%c3%b3noma%20de%20ceuta">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">ciudad autónoma de ceuta</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Ceuta"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2519582/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/ciudad%20aut%c3%b3noma%20de%20melilla">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">ciudad autónoma de melilla</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/comunidad%20de%20madrid">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">comunidad de madrid</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Community_of_Madrid"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3117732/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/comunidad%20foral%20de%20navarra">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">comunidad foral de navarra</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Navarre"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3115609/"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6355235/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/comunidad%20valenciana">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">comunidad valenciana</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Valencian_Community"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2593113/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/extremadura">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">extremadura</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Extremadura"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2593112/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/galicia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">galicia</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Galicia_(Spain)"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3336902/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/la%20rioja">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">la rioja</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/pa%c3%ads%20vasco">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">país vasco</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/País_Vasco"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3336903/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/principado%20de%20asturias">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">principado de asturias</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Asturias"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3114710/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/regi%c3%b3n%20de%20murcia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">región de murcia</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Region_of_Murcia"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2513413/"/>
+</sioc_t:Tag>
+<sioc:Item rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/rios-de-espaa/6b90cb5d-8084-4d44-9cc6-990fe7068e38">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">Ríos de España</rdfs:label>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="es">
+<p>&iquest;Conoces bien los r&iacute;os de Espa&ntilde;a? Prueba a se&ntilde;alar en el mapa cada uno de los&nbsp;r&iacute;os de Espa&ntilde;a&nbsp;por los que te van preguntando.&nbsp;</p> <p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="eu">
+<p>Aipatutako lekuak kokatuko zenituzke? &nbsp;&nbsp;Mapan zehazki seinalatu behar duzu non aurkitzen den leku bakoitza.</p><p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="pt">
+<p>Consegue encontrar os elementos geogr&aacute;ficos pedidos? Tem de assinalar no mapa onde se encontra exatamente cada um.</p><p>Amplia ou reduz o mapa com o zoom e ajusta seu tamanho para a tela do seu dispositivo. Voc&ecirc; tamb&eacute;m pode clicar no mapa e arraste para o centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="fr">
+<p>Sauriez-vous localiser sur la carte chaque entit&eacute; g&eacute;ographique? Vous devez indiquer sur la carte exactement o&ugrave; se trouve chacune.</p><p>Agrandissez o r&eacute;duisez la carte avec le zoom et ajustez sa taille &agrave; l&#39;&eacute;cran de votre appareil. Vous pouvez &eacute;galement cliquer sur la carte et faites glisser vers le centre.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="gl">
+<p>Saber&iacute;as situar os elementos xeogr&aacute;ficos polos que che preguntan? Tes que sinalar no mapa onde se encontra exactamente cada un.</p><p>Ampl&iacute;a ou reduce o mapa co zoom e axusta o seu tama&ntilde;o &aacute; pantalla do teu dispositivo. Tam&eacute;n podes clicar sobre o mapa e arrastralo para centralo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="it">
+<p>Sapresti individuare gli elementi geografici richiesti? Segna sulla mappa dove si trovano i cosiddetti elementi.</p><p>Ingrandisci o riduci la mappa con lo zoom e regola le dimensioni sullo schermo del dispositivo. &Egrave; inoltre possibile fare clic sulla mappa e trascinarla al centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="ca">
+<p>Saps situar els elements geogr&agrave;fics que et demanen? Has d&rsquo;assenyalar al mapa on es troba cada element.</p><p>Amplia o redueix el mapa amb el zoom i ajusta la seva mida a la pantalla del teu dispositiu. Tamb&eacute; pots clicar sobre el mapa i arrossegar per centrar-lo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="de">
+<p>K&ouml;nntest Du, die geographische Objekte ausfinding manche? Du musst auf die Landkarte genau zeigen, wo jeder sich befindet.</p><p>Vergr&ouml;&szlig;ern oder verkleinern Sie die Karte mit dem Zoom, und anpassen Sie ihre Gr&ouml;&szlig;e&nbsp;um den Bildschirm des Ger&auml;ts. Sie k&ouml;nnen auch auf die Karte klicken und die zum Zentrum ziehen.&nbsp;</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="en">
+<p>Would you know how to locate on the map each river of Spain which you have been asked for? Figure it out with this interactive map of Didactalia.</p><p>Zoom in or zoom out the map in order to adjust it to the size of your desktop&rsquo;s device. You also can click on it and drag to centre the image.</p><p>&nbsp;</p>
+</sioc:content>
+<dc:creator rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">didactalia</dc:creator>
+<dcterms:created rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">2017-01-30T17:24:20+01:00</dcterms:created>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Ríos de España</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">Rivers of Spain</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="de">Die flüsse von Spanien</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ca">Els rius d'Espanya</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="eu">Espainiako ibaiak</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="it">Fiumi di Spagna</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="fr">Fleuves d'Espagne</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="pt">Os ríos da Espanha</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="gl">Ríos de España</dcterms:title>
+<dcterms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">
+rios-de-espaa-donde-esta-mapa-de-didactalia.rdf.rdf
+</dcterms:source>
+<gnoss:has_docSem rdf:resource="http://didactalia.net/items/Map_6b90cb5d-8084-4d44-9cc6-990fe7068e38_b2dd530c-55cc-4a6f-977d-3ffb888fec4f"/>
+<sioc:has_creator rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/organizacion/equipoGNOSS/"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/rios/9139a58d-e943-4d40-b5fb-2b7dee8784a8"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/mapas-de-didactalia/c0aa86c1-9288-4ea8-a35c-fbd6565cfb43"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20tajo"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20mi%c3%b1o"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20segura"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20guadalquivir"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20duero"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20guadiana"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20llobregat"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20ter"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20guadalete"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20alag%c3%b3n"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20jabal%c3%b3n"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20j%c3%bacar"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/espa%c3%b1a"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ados%20de%20espa%c3%b1a"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20de%20espa%c3%b1a"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20ebro"/>
+<dcterms:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+</sioc:Item>
+<skos:Concept rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/rios/9139a58d-e943-4d40-b5fb-2b7dee8784a8">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">Ríos</rdfs:label>
+<skos:prefLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ríos</skos:prefLabel>
+</skos:Concept>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20tajo">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río tajo</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Tagus"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20mi%c3%b1o">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río miño</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Río_Miño"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3116727/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20segura">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río segura</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Segura"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2510970/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20guadalquivir">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río guadalquivir</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20duero">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río duero</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Douro"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/7701505/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20guadiana">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río guadiana</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20llobregat">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río llobregat</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Llobregat"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3118233/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20ter">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río ter</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Ter_(river)"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20guadalete">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río guadalete</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20alag%c3%b3n">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río alagón</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Alagón_(river)"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20jabal%c3%b3n">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río jabalón</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20j%c3%bacar">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río júcar</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ados%20de%20espa%c3%b1a">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">ríos de españa</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20ebro">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río ebro</rdfs:label>
+</sioc_t:Tag>
+<sioc:Item rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/rios-de-espaa/baf5ae9b-b0f9-4476-a05e-8465d60b21a1">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">Ríos de España</rdfs:label>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="es">
+<p>Elige de la lista propuesta el nombre de cada uno de los r&iacute;os de Espa&ntilde;a se&ntilde;alados en el mapa.</p> <p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="ca">
+<p>Coneixes el nom de cada element geogr&agrave;fic assenyalat al mapa? Posa&rsquo;t a prova amb aquest mapa interactiu. Has de triar la resposta adequada d&rsquo;una llista amb diverses opcions.</p><p>Amplia o redueix el mapa amb el zoom i ajusta la seva mida a la pantalla del teu dispositiu. Tamb&eacute; pots clicar sobre el mapa i arrossegar per centrar-lo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="gl">
+<p>Co&ntilde;eces o nome de cada elemento xeogr&aacute;fico sinalado no mapa? Ponte a proba con este mapa interactivo. Tes que elixir a resposta axeitada dun listado con varias opci&oacute;ns.</p><p>Ampl&iacute;a ou reduce o mapa co zoom e axusta o seu tama&ntilde;o &aacute; pantalla do teu dispositivo. Tam&eacute;n podes clicar sobre o mapa e arrastralo para centralo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="de">
+<p>Kennst du die Namen der geographischen Objekte auf der Karte? Test du dich selbst mit dieser interaktiven Karte. Du hast die richtige Antwort aus einer Liste mit mehreren Optionen w&auml;hlen.</p><p>Vergr&ouml;&szlig;ern oder verkleinern Sie die Karte mit dem Zoom, und anpassen Sie ihre Gr&ouml;&szlig;e&nbsp;um den Bildschirm des Ger&auml;ts. Sie k&ouml;nnen auch auf die Karte klicken und die zum Zentrum ziehen.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="pt">
+<p>Conhece o nome de cada elemento geogr&aacute;fico assinalado no mapa? Coloque-se &agrave; prova com este mapa interativo. Tem de escolher a resposta correta de uma lista de v&aacute;rias op&ccedil;&otilde;es.</p><p>Amplia ou reduz o mapa com o zoom e ajusta seu tamanho para a tela do seu dispositivo. Voc&ecirc; tamb&eacute;m pode clicar no mapa e arraste para o centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="it">
+<p>Conosci il nome di ogni elemento geografico segnato sulla mappa? Mettiti alla prova con questa mappa interattiva. Scegli la risposta giusta tra le varie opzioni proposte.</p><p>Ingrandisci o riduci la mappa con lo zoom e regola le dimensioni sullo schermo del dispositivo. &Egrave; inoltre possibile fare clic sulla mappa e trascinarla al centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="fr">
+<p>Connaissez-vous les noms de chaque entit&eacute; g&eacute;ographique indiqu&eacute;e sur la carte? Testez-vous avec cette carte interactive. Vous devez choisir la bonne r&eacute;ponse parmi une liste d&#39;options.</p><p>Agrandissez o r&eacute;duisez la carte avec le zoom et ajustez sa taille &agrave; l&#39;&eacute;cran de votre appareil. Vous pouvez &eacute;galement cliquer sur la carte et faites glisser vers le centre.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="eu">
+<p>Aipatutako lekuak kokatuko zenituzke? Mapan zehazki seinalatu behar duzu non aurkitzen den leku bakoitza.</p><p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="en">
+<p>Do you know what is the name of each river of Spain&nbsp;shown on the map?&nbsp;You have to choose the right answer from a list of several options.</p><p>Zoom in or zoom out the map in order to adjust it to the size of your desktop&rsquo;s device. You also can click on it and drag to centre the image.</p>
+</sioc:content>
+<dc:creator rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">didactalia</dc:creator>
+<dcterms:created rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">2017-01-30T17:24:39+01:00</dcterms:created>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Ríos de España</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">Rivers of Spain</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="de">Die flüsse von Spanien</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ca">Els rius d'Espanya</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="eu">Espainiako ibaiak</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="it">Fiumi di Spagna</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="fr">Fleuves d'Espagne</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="pt">Os ríos da Espanha</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="gl">Ríos de España</dcterms:title>
+<dcterms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">
+rios-de-espaa-como-se-llama-mapa-de-didactalia.rdf.rdf
+</dcterms:source>
+<gnoss:has_docSem rdf:resource="http://didactalia.net/items/Map_baf5ae9b-b0f9-4476-a05e-8465d60b21a1_5a6826a7-573d-4a27-8eaf-dc191ec9cfd5"/>
+<sioc:has_creator rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/organizacion/equipoGNOSS/"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/rios/9139a58d-e943-4d40-b5fb-2b7dee8784a8"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/mapas-de-didactalia/c0aa86c1-9288-4ea8-a35c-fbd6565cfb43"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ados%20de%20espa%c3%b1a"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/espa%c3%b1a"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20ebro"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20tajo"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20mi%c3%b1o"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20segura"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20guadalquivir"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20duero"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20guadiana"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20llobregat"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20ter"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20guadalete"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20alag%c3%b3n"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20jabal%c3%b3n"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20j%c3%bacar"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20de%20espa%c3%b1a"/>
+<dcterms:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+</sioc:Item>
+<sioc:Item rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/relieve-de-europa/a62b3ad4-afed-4e56-ad45-2c3ac42c0a81">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">Relieve de Europa</rdfs:label>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="es">
+<p>Ubica en el mapa de Europa cada una de las formas de&nbsp;relieve (macizos, cordilleras, sistemas monta&ntilde;osos,etc. ) del viejo continente, por las que se te pregunta.</p> <p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="eu">
+<p>Aipatutako lekuak kokatuko zenituzke? Mapan zehazki seinalatu behar duzu non aurkitzen den leku bakoitza.</p><p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="pt">
+<p>Consegue encontrar os elementos geogr&aacute;ficos pedidos? Tem de assinalar no mapa onde se encontra exatamente cada um.</p><p>Amplia ou reduz o mapa com o zoom e ajusta seu tamanho para a tela do seu dispositivo. Voc&ecirc; tamb&eacute;m pode clicar no mapa e arraste para o centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="fr">
+<p>Sauriez-vous localiser sur la carte chaque entit&eacute; g&eacute;ographique? Vous devez indiquer sur la carte exactement o&ugrave; se trouve chacune.</p><p>Agrandissez o r&eacute;duisez la carte avec le zoom et ajustez sa taille &agrave; l&#39;&eacute;cran de votre appareil. Vous pouvez &eacute;galement cliquer sur la carte et faites glisser vers le centre.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="gl">
+<p>Saber&iacute;as situar os elementos xeogr&aacute;ficos polos que che preguntan? Tes que sinalar no mapa onde se encontra exactamente cada un.</p><p>Ampl&iacute;a ou reduce o mapa co zoom e axusta o seu tama&ntilde;o &aacute; pantalla do teu dispositivo. Tam&eacute;n podes clicar sobre o mapa e arrastralo para centralo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="it">
+<p>Sapresti individuare gli elementi geografici richiesti? Segna sulla mappa dove si trovano i cosiddetti elementi.</p><p>Ingrandisci o riduci la mappa con lo zoom e regola le dimensioni sullo schermo del dispositivo. &Egrave; inoltre possibile fare clic sulla mappa e trascinarla al centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="ca">
+<p>Saps situar els elements geogr&agrave;fics que et demanen? Has d&rsquo;assenyalar al mapa on es troba cada element.</p><p>Amplia o redueix el mapa amb el zoom i ajusta la seva mida a la pantalla del teu dispositiu. Tamb&eacute; pots clicar sobre el mapa i arrossegar per centrar-lo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="de">
+<p>K&ouml;nntest du, die geographische Objekte ausfinding machen? Du musst auf die Landkarte genau zeigen, wo jeder sich befindet.</p><p>Vergr&ouml;&szlig;ern oder verkleinern Sie die Karte mit dem Zoom, und anpassen Sie ihre Gr&ouml;&szlig;e&nbsp;um den Bildschirm des Ger&auml;ts. Sie k&ouml;nnen auch auf die Karte klicken und die zum Zentrum ziehen.&nbsp;</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="en">
+<p>Try to locate on the map each item of the European physical relief given.</p><p>Zoom in or zoom out the map in order to adjust it to the size of your desktop&rsquo;s device. You also can click on it and drag to centre the image.</p>
+</sioc:content>
+<dc:creator rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">didactalia</dc:creator>
+<dcterms:created rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">2016-07-20T08:31:25+02:00</dcterms:created>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Relieve de Europa</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">Physical relief of Europe</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="de">Der europäischen Relief</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ca">El relleu d'Europa</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="eu">Europako erliebea</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="it">Il rilievo dell'Europa</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="pt">O relevo da Europa</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="gl">O relevo de Europa</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="fr">Relief d' Europe</dcterms:title>
+<dcterms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">
+relieve-de-europa-donde-esta-mapa-de-didactalia.rdf.rdf
+</dcterms:source>
+<gnoss:has_docSem rdf:resource="http://didactalia.net/items/Map_a62b3ad4-afed-4e56-ad45-2c3ac42c0a81_69b4d9f9-2cd2-4b87-a15e-d48adbc7d9d0"/>
+<sioc:has_creator rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/organizacion/equipoGNOSS/"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/relieve/b07b35cd-fbda-4cd4-acf3-5af1c9b34547"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/mapas-de-didactalia/c0aa86c1-9288-4ea8-a35c-fbd6565cfb43"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/relieve%20de%20europa"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/montes%20pindo"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/alpes"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/alpes%20din%c3%a1ricos"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/montes%20urales"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/tierras%20altas%20escocesas"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/montes%20c%c3%a1rpatos"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/pirineos"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/balcanes"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/cordillera%20cant%c3%a1brica"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/sierra%20nevada"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/montes%20escandinavos"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/selva%20negra"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/monta%c3%b1as%20del%20ca%c3%bacaso"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/c%c3%a1rpatos"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/europa"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/europe"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20de%20europa"/>
+<dcterms:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+</sioc:Item>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/relieve%20de%20europa">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">relieve de europa</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/montes%20pindo">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">montes pindo</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/alpes">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">alpes</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Alps"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2661786/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/alpes%20din%c3%a1ricos">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">alpes dináricos</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Dinaric_Alps"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/montes%20urales">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">montes urales</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Ural_Mountains"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/1488441/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/tierras%20altas%20escocesas">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">tierras altas escocesas</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/montes%20c%c3%a1rpatos">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">montes cárpatos</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Carpathian_Mountains"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/682674/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/balcanes">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">balcanes</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/sierra%20nevada">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">sierra nevada</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/montes%20escandinavos">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">montes escandinavos</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/selva%20negra">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">selva negra</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Black_Forest"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2834688/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/monta%c3%b1as%20del%20ca%c3%bacaso">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">montañas del caúcaso</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/c%c3%a1rpatos">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">cárpatos</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Carpathian_Mountains"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/682674/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/europa">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">europa</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Europe"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6255148/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/europe">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">europe</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Europe"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6255148/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20de%20europa">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">mapa de europa</rdfs:label>
+</sioc_t:Tag>
+<sioc:Item rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/mapa-de-europa-paises/4d575284-caef-4352-a22a-1a64e6c93337">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">Mapa de Europa. Países</rdfs:label>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="es">
+<p>F&iacute;jate en el pa&iacute;s que te se&ntilde;ala el mapa y detalla su nombre correcto, de entre los propuestos en el listado.<br /> Ampl&iacute;a o reduce el mapa con el zoom y aj&uacute;sta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="ca">
+<p>Coneixes el nom de cada element geogr&agrave;fic assenyalat al mapa? Posa&rsquo;t a prova amb aquest mapa interactiu. Has de triar la resposta adequada d&rsquo;una llista amb diverses opcions.</p><p>Amplia o redueix el mapa amb el zoom i ajusta la seva mida a la pantalla del teu dispositiu. Tamb&eacute; pots clicar sobre el mapa i arrossegar per centrar-lo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="it">
+<p>Conosci il nome di ogni elemento geografico segnato sulla mappa? Mettiti alla prova con questa mappa interattiva. Scegli la risposta giusta tra le varie opzioni proposte.</p><p>Ingrandisci o riduci la mappa con lo zoom e regola le dimensioni sullo schermo del dispositivo. &Egrave; inoltre possibile fare clic sulla mappa e trascinarla al centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="de">
+<p>Kennst du die Namen der geographischen Objekte auf der Karte? Test du dich selbst mit dieser interaktiven Karte. Du hast die richtige Antwort aus einer Liste mit mehreren Optionen w&auml;hlen</p><p>Vergr&ouml;&szlig;ern oder verkleinern Sie die Karte mit dem Zoom, und anpassen Sie ihre Gr&ouml;&szlig;e&nbsp;um den Bildschirm des Ger&auml;ts. Sie k&ouml;nnen auch auf die Karte klicken und die zum Zentrum ziehen.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="eu">
+<p>Mapan adierazitako leku bakoitzeko izena ezagutzen duzu? Mapa elkarreragile honetan proba ezazu!. Hainbat aukera dituen zerrenda batetik erantzun egokia aukeratu behar duzu.</p><p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="fr">
+<p>Connaissez-vous les noms de chaque entit&eacute; g&eacute;ographique indiqu&eacute;e sur la carte? Testez-vous avec cette carte interactive. Vous devez choisir la bonne r&eacute;ponse parmi une liste d&#39;options.</p><p>Agrandissez o r&eacute;duisez la carte avec le zoom et ajustez sa taille &agrave; l&#39;&eacute;cran de votre appareil. Vous pouvez &eacute;galement cliquer sur la carte et faites glisser vers le centre.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="en">
+<p>Do you know what is the name of each european country shown on the map? Test yourself with this interactive map, you have to choose the right answer from a list of several options.</p><p>Zoom in or zoom out the map in order to adjust it to the size of your desktop&rsquo;s device. You also can click on it and drag to centre the image.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="gl">
+<p>Co&ntilde;eces o nome de cada elemento xeogr&aacute;fico sinalado no mapa? Ponte a proba con este mapa interactivo. Tes que elixir a resposta axeitada dun listado con varias opci&oacute;ns.</p><p>Ampl&iacute;a ou reduce o mapa co zoom e axusta o seu tama&ntilde;o &aacute; pantalla do teu dispositivo. Tam&eacute;n podes clicar sobre o mapa e arrastralo para centralo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="pt">
+<p>Conhece o nome de cada elemento geogr&aacute;fico assinalado no mapa? Coloque-se &agrave; prova com este mapa interativo. Tem de escolher a resposta correta de uma lista de v&aacute;rias op&ccedil;&otilde;es.</p><p>Amplia ou reduz o mapa com o zoom e ajusta seu tamanho para a tela do seu dispositivo. Voc&ecirc; tamb&eacute;m pode clicar no mapa e arraste para o centro.</p>
+</sioc:content>
+<dc:creator rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">didactalia</dc:creator>
+<dcterms:created rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">2020-01-13T10:49:48+01:00</dcterms:created>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Mapa de Europa. Países</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">Countries of Europe</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="eu">Europako herrialdeak</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="de">Länder in Europa</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="it">Paesi dell' Europa</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="fr">Pays d' Europe</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="pt">Países da Europa</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="gl">Países de Europa</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ca">Països d'Europa</dcterms:title>
+<dcterms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">
+paises-de-europa-como-se-llama-mapa-de-didactalia.rdf.rdf
+</dcterms:source>
+<gnoss:has_docSem rdf:resource="http://didactalia.net/items/Map_4d575284-caef-4352-a22a-1a64e6c93337_e1f9a0ef-447e-43b4-bc9b-679748a0be71"/>
+<sioc:has_creator rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/organizacion/equipoGNOSS/"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/paises/8436956d-44b4-477a-9102-f7cebb1e2824"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/mapas-de-didactalia/c0aa86c1-9288-4ea8-a35c-fbd6565cfb43"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/pa%c3%adses%20de%20europa"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/espa%c3%b1a"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/portugal"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/francia"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/reino%20unido"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/irlanda"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/alemania"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/italia"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/austria"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/ruman%c3%ada"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/grecia"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/noruega"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/suecia"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/rusia"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/ucra%c3%adna"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/hungr%c3%ada"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/ciudad%20del%20vaticano"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/luxemburgo"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/liechtenstein"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/andorra"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/finlandia"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/bosnia%20y%20herzegovina"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20de%20europa"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/paises%20bajos"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/macedonia%20del%20norte"/>
+<dcterms:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+</sioc:Item>
+<skos:Concept rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/paises/8436956d-44b4-477a-9102-f7cebb1e2824">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">Países</rdfs:label>
+<skos:prefLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Países</skos:prefLabel>
+</skos:Concept>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/pa%c3%adses%20de%20europa">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">países de europa</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/portugal">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">portugal</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Portugal"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2264397/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/francia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">francia</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/France"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3017382/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/reino%20unido">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">reino unido</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2635167/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/irlanda">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">irlanda</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2963597/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/alemania">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">alemania</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Germany"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2921044/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/italia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">italia</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Italy"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3175395/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/austria">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">austria</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Austria"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2782113/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/ruman%c3%ada">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">rumanía</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/grecia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">grecia</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Greece"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/390903/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/noruega">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">noruega</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Norway"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3144096/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/suecia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">suecia</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sweden"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2661886/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/rusia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">rusia</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Russia"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2017370/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/ucra%c3%adna">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">ucraína</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/hungr%c3%ada">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">hungría</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Hungary"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/719819/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/ciudad%20del%20vaticano">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">ciudad del vaticano</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Vatican_City"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3164670/"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6691831/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/luxemburgo">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">luxemburgo</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Luxembourg"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2960313/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/liechtenstein">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">liechtenstein</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Liechtenstein"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3042058/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/andorra">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">andorra</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Andorra"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3041565/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/finlandia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">finlandia</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Finland"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/660013/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/bosnia%20y%20herzegovina">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">bosnia y herzegovina</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Bosnia_and_Herzegovina"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3277605/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/paises%20bajos">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">paises bajos</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/macedonia%20del%20norte">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">macedonia del norte</rdfs:label>
+</sioc_t:Tag>
+<sioc:Item rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/estados-de-mexico/23c9a9ce-1070-4c34-8bc1-034f0906a433">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">Estados de México</rdfs:label>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="es">
+<p>Ubica en el mapa cada uno de los estados de M&eacute;xico&nbsp;por los que te preguntan.</p> <p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="eu">
+<p>Aipatutako lekuak kokatuko zenituzke? Mapan zehazki seinalatu behar duzu non aurkitzen den leku bakoitza.</p><p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="pt">
+<p>Consegue encontrar os elementos geogr&aacute;ficos pedidos? Tem de assinalar no mapa onde se encontra exatamente cada um.</p><p>Amplia ou reduz o mapa com o zoom e ajusta seu tamanho para a tela do seu dispositivo. Voc&ecirc; tamb&eacute;m pode clicar no mapa e arraste para o centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="fr">
+<p>Sauriez-vous localiser sur la carte chaque entit&eacute; g&eacute;ographique? Vous devez indiquer sur la carte exactement o&ugrave; se trouve chacune.</p><p>Agrandissez o r&eacute;duisez la carte avec le zoom et ajustez sa taille &agrave; l&#39;&eacute;cran de votre appareil. Vous pouvez &eacute;galement cliquer sur la carte et faites glisser vers le centre.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="gl">
+<p>Saber&iacute;as situar os elementos xeogr&aacute;ficos polos que che preguntan? Tes que sinalar no mapa onde se encontra exactamente cada un.</p><p>Ampl&iacute;a ou reduce o mapa co zoom e axusta o seu tama&ntilde;o &aacute; pantalla do teu dispositivo. Tam&eacute;n podes clicar sobre o mapa e arrastralo para centralo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="it">
+<p>Sapresti individuare gli elementi geografici richiesti? Segna sulla mappa dove si trovano i cosiddetti elementi.</p><p>Ingrandisci o riduci la mappa con lo zoom e regola le dimensioni sullo schermo del dispositivo. &Egrave; inoltre possibile fare clic sulla mappa e trascinarla al centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="ca">
+<p>Saps situar els elements geogr&agrave;fics que et demanen? Has d&rsquo;assenyalar al mapa on es troba cada element.</p><p>Amplia o redueix el mapa amb el zoom i ajusta la seva mida a la pantalla del teu dispositiu. Tamb&eacute; pots clicar sobre el mapa i arrossegar per centrar-lo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="de">
+<p>K&ouml;nntest Du, die geographische Objekte ausfinding manche? Du musst auf die Landkarte genau zeigen, wo jeder sich befindet.</p><p>Vergr&ouml;&szlig;ern oder verkleinern Sie die Karte mit dem Zoom, und anpassen Sie ihre Gr&ouml;&szlig;e&nbsp;um den Bildschirm des Ger&auml;ts. Sie k&ouml;nnen auch auf die Karte klicken und die zum Zentrum ziehen.&nbsp;</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="en">
+<p>Try to locate in a correct way on the map each State of Mexico which you have been asked for.</p><p><br />Zoom in or zoom out the map in order to adjust it to the size of your desktop&rsquo;s device. You also can click on it and drag to centre the image.</p>
+</sioc:content>
+<dc:creator rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">didactalia</dc:creator>
+<dcterms:created rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">2017-04-25T16:57:04+02:00</dcterms:created>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Estados de México</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">States of Mexico</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="gl">Estados de México</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ca">Estats de Mèxic</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="fr">Les États du Mexique</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="de">Mexiko: Staaten</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="pt">Os Estados do México</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="it">Stati del Messico</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="eu">Mexiko-estatuak</dcterms:title>
+<dcterms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">
+estados-de-mexico-donde-esta-mapa-de-didactalia.rdf.rdf
+</dcterms:source>
+<gnoss:has_docSem rdf:resource="http://didactalia.net/items/Map_23c9a9ce-1070-4c34-8bc1-034f0906a433_98fc5322-f009-418d-9ff8-a9a7dce396b9"/>
+<sioc:has_creator rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/organizacion/equipoGNOSS/"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/estados/99c36976-61f5-4a3b-acff-44e269b6c4a7"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/mapas-de-didactalia/c0aa86c1-9288-4ea8-a35c-fbd6565cfb43"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/estados%20de%20m%c3%a9xico"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/aguascalientes"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/baja%20california"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/baja%20california%20sur"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/campeche"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/coahuila"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/colima"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/chiapas"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/distrito%20federal"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/durango"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/hidalgo"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/michoac%c3%a1n"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/morelos"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/nayarit"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/nuevo%20le%c3%b3n"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/oaxaca"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/quer%c3%a9taro"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/quintana%20roo"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/san%20luis%20potos%c3%ad"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/sinaloa"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/sonora"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/tabasco"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/tamaulipas"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/tlaxcala"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/veracruz"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/yucat%c3%a1n"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/zacatecas"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/m%c3%a9xico"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/try"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/state%20of%20mexico"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/zoom"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/guanajuato"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20de%20m%c3%a9xico"/>
+<dcterms:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+</sioc:Item>
+<skos:Concept rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/estados/99c36976-61f5-4a3b-acff-44e269b6c4a7">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">Estados</rdfs:label>
+<skos:prefLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estados</skos:prefLabel>
+</skos:Concept>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/estados%20de%20m%c3%a9xico">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">estados de méxico</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/aguascalientes">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">aguascalientes</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Aguascalientes"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/4019231/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/baja%20california">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">baja california</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/baja%20california%20sur">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">baja california sur</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Baja_California_Sur"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/4017698/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/campeche">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">campeche</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Campeche"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3531730/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/coahuila">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">coahuila</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Coahuila"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/4013674/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/colima">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">colima</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Colima"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/4013513/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/chiapas">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">chiapas</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Chiapas"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3531011/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/distrito%20federal">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">distrito federal</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Federal_district"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/durango">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">durango</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Durango"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/4011741/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/hidalgo">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">hidalgo</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Hidalgo_(nobility)"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/michoac%c3%a1n">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">michoacán</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Michoacán"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3995955/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/morelos">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">morelos</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Morelos"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3522961/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/nayarit">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">nayarit</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Nayarit"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3995012/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/nuevo%20le%c3%b3n">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">nuevo león</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Nuevo_León"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3522542/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/oaxaca">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">oaxaca</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Oaxaca"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3522509/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/quer%c3%a9taro">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">querétaro</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Querétaro"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3520914/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/quintana%20roo">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">quintana roo</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Quintana_Roo"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3520887/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/san%20luis%20potos%c3%ad">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">san luis potosí</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/San_Luis_Potosí"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3985605/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/sinaloa">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">sinaloa</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sinaloa"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3983035/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/sonora">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">sonora</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sonora"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3982846/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/tabasco">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">tabasco</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Tabasco"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3516458/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/tamaulipas">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">tamaulipas</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Tamaulipas"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3516391/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/tlaxcala">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">tlaxcala</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Tlaxcala"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3515359/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/veracruz">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">veracruz</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Veracruz"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3514780/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/yucat%c3%a1n">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">yucatán</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Yucatán"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3514211/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/zacatecas">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">zacatecas</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Zacatecas"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3979840/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/m%c3%a9xico">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">méxico</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Mexico"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3996063/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/try">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">try</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Try"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/state%20of%20mexico">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">state of mexico</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/State_of_Mexico"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3523272/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/zoom">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">zoom</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/guanajuato">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">guanajuato</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Guanajuato"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/4005267/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20de%20m%c3%a9xico">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">mapa de méxico</rdfs:label>
+</sioc_t:Tag>
+<sioc:Item rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/paises-de-asia/bc63038f-2f18-4d0c-9580-ce82c37d8015">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">Países de Asia</rdfs:label>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="es">
+<p>&iquest;Sabr&iacute;as ubicar en el&nbsp;mapa&nbsp;los pa&iacute;ses de Asia por los que se te pregunta? Compru&eacute;balo con esta divertida actividad interactiva de Didactalia para aprender geograf&iacute;a.</p> <p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p> <p>&nbsp;</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="en">
+<p>Would you know how to locate on the map each asian country which you have been asked for? You have to point out each exact location on the map.</p> <p>Zoom in or zoom out the map in order to adjust it to the size of your desktop&rsquo;s device. You also can click on it and drag to centre the image.</p> <p>&nbsp;</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="pt">
+<p>Consegue encontrar os elementos geogr&aacute;ficos pedidos? Tem de assinalar no mapa onde se encontra exatamente cada um.</p> <p>Amplia ou reduz o mapa com o zoom e ajusta seu tamanho para a tela do seu dispositivo. Voc&ecirc; tamb&eacute;m pode clicar no mapa e arraste para o centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="ca">
+<p>Saps situar els elements geogr&agrave;fics que et demanen? Has d&rsquo;assenyalar al mapa on es troba cada element.</p> <p>Amplia o redueix el mapa amb el zoom i ajusta la seva mida a la pantalla del teu dispositiu. Tamb&eacute; pots clicar sobre el mapa i arrossegar per centrar-lo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="eu">
+<p>Aipatutako lekuak kokatuko zenituzke? Mapan zehazki seinalatu behar duzu non aurkitzen den leku bakoitza.</p> <p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="gl">
+<p>Saber&iacute;as situar os elementos xeogr&aacute;ficos polos que che preguntan? Tes que sinalar no mapa onde se encontra exactamente cada un.</p> <p>Ampl&iacute;a ou reduce o mapa co zoom e axusta o seu tama&ntilde;o &aacute; pantalla do teu dispositivo. Tam&eacute;n podes clicar sobre o mapa e arrastralo para centralo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="fr">
+<p>Sauriez-vous localiser sur la carte chaque entit&eacute; g&eacute;ographique? Vous devez indiquer sur la&nbsp;carte d&#39;Asie&nbsp;exactement o&ugrave; se trouve chacune.</p> <p>Agrandissez o r&eacute;duisez la carte avec le zoom et ajustez sa taille &agrave; l&#39;&eacute;cran de votre appareil. Vous pouvez &eacute;galement cliquer sur la carte et faites glisser vers le centre.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="de">
+<p>K&ouml;nntest Du, die geographische Objekte ausfinding manche? Du musst auf die Landkarte genau zeigen, wo jeder sich befindet.</p> <p>Vergr&ouml;&szlig;ern oder verkleinern Sie die Karte mit dem Zoom, und anpassen Sie ihre Gr&ouml;&szlig;e&nbsp;um den Bildschirm des Ger&auml;ts. Sie k&ouml;nnen auch auf die Karte klicken und die zum Zentrum ziehen.&nbsp;</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="it">
+<p>Sapresti individuare gli elementi geografici richiesti? Segna sulla mappa dove si trovano i cosiddetti elementi.</p> <p>Ingrandisci o riduci la mappa con lo zoom e regola le dimensioni sullo schermo del dispositivo. &Egrave; inoltre possibile fare clic sulla mappa e trascinarla al centro.</p>
+</sioc:content>
+<dc:creator rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">didactalia</dc:creator>
+<dcterms:created rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">2016-11-15T12:28:11+01:00</dcterms:created>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Países de Asia</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">Countries of Asia</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="eu">Asiako herrialdeak</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="de">Länder Asiens</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="it">Paesi dell'Asia</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="fr">Pays d'Asie</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="pt">Países da Ásia</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="gl">Países de Asia</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ca">Països d'Àsia</dcterms:title>
+<dcterms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">
+paises-de-asia-donde-esta-mapa-de-didactalia.rdf.rdf
+</dcterms:source>
+<gnoss:has_docSem rdf:resource="http://didactalia.net/items/Map_bc63038f-2f18-4d0c-9580-ce82c37d8015_bccd95b9-da55-4167-9e53-45c0d21541a6"/>
+<sioc:has_creator rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/organizacion/equipoGNOSS/"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/paises/8436956d-44b4-477a-9102-f7cebb1e2824"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/mapas-de-didactalia/c0aa86c1-9288-4ea8-a35c-fbd6565cfb43"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/pa%c3%adses%20de%20china"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/timor%20oriental"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/georgia"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/hong%20kong"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/india"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/indonesia"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/ir%c3%a1n"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/irak"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/israel"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/jap%c3%b3n"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/jordania"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/corea%20del%20norte"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/corea%20del%20sur"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/kuwait"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/laos"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/l%c3%adbano"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/macao"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/malasia"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/maldivas"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mongolia"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/nepal"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/om%c3%a1n"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/pakist%c3%a1n"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/asia"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20de%20asia"/>
+<dcterms:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+</sioc:Item>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/pa%c3%adses%20de%20china">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">países de china</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/timor%20oriental">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">timor oriental</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/East_Timor"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/1966436/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/georgia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">georgia</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Georgia_(country)"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/614540/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/hong%20kong">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">hong kong</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Hong_Kong"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/1819729/"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/1819730/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/india">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">india</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/India"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/1269750/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/indonesia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">indonesia</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Indonesia"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/1643084/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/ir%c3%a1n">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">irán</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Iran"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/130758/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/irak">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">irak</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Iraq"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/99237/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/israel">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">israel</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Israel"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/294640/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/jap%c3%b3n">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">japón</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Japan"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/1861060/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/jordania">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">jordania</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Jordan"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/248816/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/corea%20del%20norte">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">corea del norte</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/North_Korea"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/1873107/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/corea%20del%20sur">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">corea del sur</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/South_Korea"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/1835841/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/kuwait">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">kuwait</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Kuwait"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/285570/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/laos">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">laos</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Laos"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/1655842/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/l%c3%adbano">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">líbano</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Lebanon"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/272103/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/macao">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">macao</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Macau"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/1821274/"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/1821275/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/malasia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">malasia</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Malaysia"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/1733045/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/maldivas">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">maldivas</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Maldives"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/1282028/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mongolia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">mongolia</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Mongolia"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2029969/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/nepal">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">nepal</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Nepal"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/1282988/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/om%c3%a1n">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">omán</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Oman"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/286963/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/pakist%c3%a1n">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">pakistán</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Pakistan"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/1168579/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/asia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">asia</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Asia"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6255147/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20de%20asia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">mapa de asia</rdfs:label>
+</sioc_t:Tag>
+<sioc:Item rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/paises-de-africa/1ec30038-fd1a-4dcb-9a91-01217efdd8c2">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">Países de África</rdfs:label>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="es">
+<p>&iquest;Sabr&iacute;as ubicar en el&nbsp;mapa&nbsp;los pa&iacute;ses de &Aacute;frica por los que se te pregunta? Compru&eacute;balo con esta divertida actividad interactiva de Didactalia para aprender geograf&iacute;a.</p> <p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="en">
+<p>Would you know how to locate on the map each african country which you have been asked for? You have to point out each exact location on the map.</p><p>&nbsp;</p><p>Zoom in or zoom out the map in order to adjust it to the size of your desktop&rsquo;s device. You also can click on it and drag to centre the image.</p><p>&nbsp;</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="fr">
+<p>Sauriez-vous localiser sur la carte chaque entit&eacute; g&eacute;ographique? Vous devez indiquer sur la carte exactement o&ugrave; se trouve chacune.</p><p>Agrandissez o r&eacute;duisez la carte avec le zoom et ajustez sa taille &agrave; l&#39;&eacute;cran de votre appareil. Vous pouvez &eacute;galement cliquer sur la carte et faites glisser vers le centre.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="de">
+<p>K&ouml;nntest Du, die geographische Objekte ausfinding manche? Du musst auf die Landkarte genau zeigen, wo jeder sich befindet.</p><p>Vergr&ouml;&szlig;ern oder verkleinern Sie die Karte mit dem Zoom, und anpassen Sie ihre Gr&ouml;&szlig;e&nbsp;um den Bildschirm des Ger&auml;ts. Sie k&ouml;nnen auch auf die Karte klicken und die zum Zentrum ziehen.&nbsp;</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="eu">
+<p>Aipatutako lekuak kokatuko zenituzke? Mapan zehazki seinalatu behar duzu non aurkitzen den leku bakoitza.</p><p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="gl">
+<p>Saber&iacute;as situar os elementos xeogr&aacute;ficos polos que che preguntan? Tes que sinalar no mapa onde se encontra exactamente cada un.</p><p>Ampl&iacute;a ou reduce o mapa co zoom e axusta o seu tama&ntilde;o &aacute; pantalla do teu dispositivo. Tam&eacute;n podes clicar sobre o mapa e arrastralo para centralo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="pt">
+<p>Consegue encontrar os elementos geogr&aacute;ficos pedidos? Tem de assinalar no mapa onde se encontra exatamente cada um.</p><p>Amplia ou reduz o mapa com o zoom e ajusta seu tamanho para a tela do seu dispositivo. Voc&ecirc; tamb&eacute;m pode clicar no mapa e arraste para o centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="it">
+<p>Sapresti individuare gli elementi geografici richiesti? Segna sulla mappa dove si trovano i cosiddetti elementi.</p><p>Ingrandisci o riduci la mappa con lo zoom e regola le dimensioni sullo schermo del dispositivo. &Egrave; inoltre possibile fare clic sulla mappa e trascinarla al centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="ca">
+<p>Saps situar els elements geogr&agrave;fics que et demanen? Has d&rsquo;assenyalar al mapa on es troba cada element.</p><p>Amplia o redueix el mapa amb el zoom i ajusta la seva mida a la pantalla del teu dispositiu. Tamb&eacute; pots clicar sobre el mapa i arrossegar per centrar-lo.</p>
+</sioc:content>
+<dc:creator rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">didactalia</dc:creator>
+<dcterms:created rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">2019-05-09T11:02:19+02:00</dcterms:created>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Países de África</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">Countries of Africa</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="eu">Afrikako Herriak</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="de">Länder Afrikas</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="it">Paesi dell'Africa</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="fr">Pays d'Afrique</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="pt">Países da África</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="gl">Países de África</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ca">Països d'Àfrica</dcterms:title>
+<dcterms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">
+paises-de-africa-donde-esta-mapa-de-didactalia.rdf.rdf
+</dcterms:source>
+<gnoss:has_docSem rdf:resource="http://didactalia.net/items/Map_1ec30038-fd1a-4dcb-9a91-01217efdd8c2_9983c272-353f-44e9-9d29-5446d146061f"/>
+<sioc:has_creator rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/organizacion/equipoGNOSS/"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/paises/8436956d-44b4-477a-9102-f7cebb1e2824"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/mapas-de-didactalia/c0aa86c1-9288-4ea8-a35c-fbd6565cfb43"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/pa%c3%adses%20de%20uganda"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/sud%c3%a1n"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/marruecos"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/ghana"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mozambique"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/costa%20de%20marfil"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/madagascar"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/camer%c3%ban"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/angola"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/n%c3%adger"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/burkina%20faso"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mali"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/malawi"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/zambia"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/senegal"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/zimbabue"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/chad"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/guinea"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/t%c3%banez"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/ruanda"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/rep%c3%bablica%20del%20congo"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/liberia"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mauritania"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/gab%c3%b3n"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/%c3%a1frica"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20de%20%c3%a1frica"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/sud%c3%a1frica"/>
+<dcterms:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+</sioc:Item>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/pa%c3%adses%20de%20uganda">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">países de uganda</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/sud%c3%a1n">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">sudán</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sudan"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/366755/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/marruecos">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">marruecos</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Morocco"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2542007/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/ghana">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">ghana</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Ghana"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2300660/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mozambique">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">mozambique</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Mozambique"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/1036973/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/costa%20de%20marfil">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">costa de marfil</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Ivory_Coast"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2287781/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/madagascar">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">madagascar</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Madagascar"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/1062947/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/camer%c3%ban">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">camerún</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Cameroon"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2233387/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/angola">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">angola</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Angola"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3351879/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/n%c3%adger">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">níger</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Niger"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2440476/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/burkina%20faso">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">burkina faso</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Burkina_Faso"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2361809/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mali">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">mali</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Mali"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2453866/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/malawi">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">malawi</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Malawi"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/927384/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/zambia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">zambia</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Zambia"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/895949/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/senegal">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">senegal</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Senegal"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2245662/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/zimbabue">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">zimbabue</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Zimbabwe"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/878675/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/chad">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">chad</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Chad"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2434508/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/guinea">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">guinea</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Guinea"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2420477/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/t%c3%banez">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">túnez</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Tunisia"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2464461/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/ruanda">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">ruanda</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Rwanda"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/49518/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/rep%c3%bablica%20del%20congo">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">república del congo</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Republic_of_the_Congo"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2260494/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/liberia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">liberia</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Liberia"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2275384/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mauritania">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">mauritania</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Mauritania"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2378080/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/gab%c3%b3n">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">gabón</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Gabon"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2400553/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/%c3%a1frica">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">áfrica</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Africa"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6255146/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20de%20%c3%a1frica">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">mapa de áfrica</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/sud%c3%a1frica">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">sudáfrica</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/South_Africa"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/953987/"/>
+</sioc_t:Tag>
+<sioc:Item rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/rios-de-europa/0973d01b-60b4-403d-9954-1963fa5f8cc5">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">Ríos de Europa</rdfs:label>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="es">
+<p>&iquest;Sabr&iacute;as ubicar en el&nbsp;mapa&nbsp;los r&iacute;os de Europa? Compru&eacute;balo con esta divertida actividad interactiva de Didactalia para aprender geograf&iacute;a.</p> <p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="pt">
+<p>Consegue encontrar os elementos geogr&aacute;ficos pedidos? Tem de assinalar no mapa onde se encontra exatamente cada um.</p> <p>Amplia ou reduz o mapa com o zoom e ajusta seu tamanho para a tela do seu dispositivo. Voc&ecirc; tamb&eacute;m pode clicar no mapa e arraste para o centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="ca">
+<p>Saps situar els elements geogr&agrave;fics que et demanen? Has d&rsquo;assenyalar al mapa on es troba cada element.</p> <p>Amplia o redueix el mapa amb el zoom i ajusta la seva mida a la pantalla del teu dispositiu. Tamb&eacute; pots clicar sobre el mapa i arrossegar per centrar-lo</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="eu">
+<p>Aipatutako lekuak kokatuko zenituzke? Mapan zehazki seinalatu behar duzu non aurkitzen den leku bakoitza.</p> <p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="gl">
+<p>Saber&iacute;as situar os elementos xeogr&aacute;ficos polos que che preguntan? Tes que sinalar no mapa onde se encontra exactamente cada un.</p> <p>Ampl&iacute;a ou reduce o mapa co zoom e axusta o seu tama&ntilde;o &aacute; pantalla do teu dispositivo. Tam&eacute;n podes clicar sobre o mapa e arrastralo para centralo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="fr">
+<p>Sauriez-vous localiser sur la carte chaque entit&eacute; g&eacute;ographique? Vous devez indiquer sur la carte exactement o&ugrave; se trouve chacune.</p> <p>Agrandissez o r&eacute;duisez la carte avec le zoom et ajustez sa taille &agrave; l&#39;&eacute;cran de votre appareil. Vous pouvez &eacute;galement cliquer sur la carte et faites glisser vers le centre.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="de">
+<p>K&ouml;nntest du, die geographische Objekte ausfinding machen? Du musst auf die Landkarte genau zeigen, wo jeder sich befindet.</p> <p>Vergr&ouml;&szlig;ern oder verkleinern Sie die Karte mit dem Zoom, und anpassen Sie ihre Gr&ouml;&szlig;e&nbsp;um den Bildschirm des Ger&auml;ts. Sie k&ouml;nnen auch auf die Karte klicken und die zum Zentrum ziehen.&nbsp;</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="it">
+<p>Sapresti individuare gli elementi geografici richiesti? Segna sulla mappa dove si trovano i cosiddetti elementi.</p> <p>Ingrandisci o riduci la mappa con lo zoom e regola le dimensioni sullo schermo del dispositivo. &Egrave; inoltre possibile fare clic sulla mappa e trascinarla al centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="en">
+<p>Try to figure out the location on the map of the european river given.</p> <p>Zoom in or zoom out the map in order to adjust it to the size of your desktop&rsquo;s device. You also can click on it and drag to centre the image.</p>
+</sioc:content>
+<dc:creator rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">didactalia</dc:creator>
+<dcterms:created rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">2016-06-22T17:13:10+02:00</dcterms:created>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Ríos de Europa</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="pt">Os rios da Europa</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ca">Els rius d'Europa</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="eu">Europako ibaiak</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="gl">Os ríos de Europa</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="fr">Fleuves d' Europe</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="de">Die europäische Flüsse</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="it">Fiumi dell'Europa</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">Rivers of Europe</dcterms:title>
+<dcterms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">
+rios-de-europa-donde-esta-mapa-de-didactalia.rdf.rdf
+</dcterms:source>
+<gnoss:has_docSem rdf:resource="http://didactalia.net/items/Map_0973d01b-60b4-403d-9954-1963fa5f8cc5_3fe36767-1e07-4729-b248-4782be29e6cd"/>
+<sioc:has_creator rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/organizacion/equipoGNOSS/"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/rios/9139a58d-e943-4d40-b5fb-2b7dee8784a8"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/mapas-de-didactalia/c0aa86c1-9288-4ea8-a35c-fbd6565cfb43"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ados%20de%20europa"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20dvina%20septentrional"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20volga"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20ural"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20don"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20dnieper"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20vistula"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20dniester"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20oder"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20elba"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20tisza"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20danubio"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20weser"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20rin"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20mosa"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20tamesis"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20sena"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20loira"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20rodano"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20po"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20drava"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20garona"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20ebro"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20duero"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20tajo"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20guadiana"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20guadalquivir"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20de%20europa"/>
+<dcterms:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+</sioc:Item>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ados%20de%20europa">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">ríos de europa</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20dvina%20septentrional">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río dvina septentrional</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20volga">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río volga</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20ural">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río ural</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Ural_River"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20don">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río don</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Don_River_(Russia)"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/565361/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20dnieper">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río dnieper</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20vistula">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río vistula</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20dniester">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río dniester</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20oder">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río oder</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20elba">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río elba</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Elbe"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20tisza">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río tisza</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20danubio">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río danubio</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20weser">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río weser</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20rin">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río rin</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20mosa">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río mosa</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Meuse"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2994106/"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2751306/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20tamesis">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río tamesis</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20sena">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río sena</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Seine"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2975252/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20loira">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río loira</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Loire"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2997870/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20rodano">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río rodano</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20po">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río po</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20drava">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río drava</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Drava"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/2780703/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/r%c3%ado%20garona">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">río garona</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Garonne"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3016598/"/>
+</sioc_t:Tag>
+<sioc:Item rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recurso/paises-de-america-del-sur/55343e4e-621e-4bba-8f37-ba956a6fd5ca">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">Países de América del Sur</rdfs:label>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="es">
+<p>&iquest;Sabr&iacute;as ubicar en el&nbsp;mapa&nbsp;los <a href="https://es.wikipedia.org/wiki/Am%C3%A9rica_del_Sur" target="_blank"><strong>pa&iacute;ses de Am&eacute;rica del Sur</strong></a>? Compru&eacute;balo con esta divertida actividad interactiva de Didactalia para aprender geograf&iacute;a.</p> <p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="en">
+<p>Would you know how to locate on the map the South American countries which&nbsp;you have been asked for? You have to point out each exact location on the map.</p><p><br />Zoom in or zoom out the map in order to adjust it to the size of your desktop&rsquo;s device. You also can click on it and drag to centre the image.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="fr">
+<p>Sauriez-vous localiser sur la carte chaque entit&eacute; g&eacute;ographique? Vous devez indiquer sur la carte exactement o&ugrave; se trouve chacune.</p><p>Agrandissez o r&eacute;duisez la carte avec le zoom et ajustez sa taille &agrave; l&#39;&eacute;cran de votre appareil. Vous pouvez &eacute;galement cliquer sur la carte et faites glisser vers le centre.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="it">
+<p>Sapresti individuare gli elementi geografici richiesti? Segna sulla mappa dove si trovano i cosiddetti elementi.</p><p>Ingrandisci o riduci la mappa con lo zoom e regola le dimensioni sullo schermo del dispositivo. &Egrave; inoltre possibile fare clic sulla mappa e trascinarla al centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="de">
+<p>K&ouml;nntest Du, die geographische Objekte ausfinding manche? Du musst auf die Landkarte genau zeigen, wo jeder sich befindet.</p><p>Vergr&ouml;&szlig;ern oder verkleinern Sie die Karte mit dem Zoom, und anpassen Sie ihre Gr&ouml;&szlig;e&nbsp;um den Bildschirm des Ger&auml;ts. Sie k&ouml;nnen auch auf die Karte klicken und die zum Zentrum ziehen.&nbsp;</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="pt">
+<p>Consegue encontrar os elementos geogr&aacute;ficos pedidos? Tem de assinalar no mapa onde se encontra exatamente cada um.</p><p>Amplia ou reduz o mapa com o zoom e ajusta seu tamanho para a tela do seu dispositivo. Voc&ecirc; tamb&eacute;m pode clicar no mapa e arraste para o centro.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="gl">
+<p>Saber&iacute;as situar os elementos xeogr&aacute;ficos polos que che preguntan? Tes que sinalar no mapa onde se encontra exactamente cada un.</p><p>Ampl&iacute;a ou reduce o mapa co zoom e axusta o seu tama&ntilde;o &aacute; pantalla do teu dispositivo. Tam&eacute;n podes clicar sobre o mapa e arrastralo para centralo</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="eu">
+<p>Aipatutako lekuak kokatuko zenituzke? Mapan zehazki seinalatu behar duzu non aurkitzen den leku bakoitza.</p><p>Ampl&iacute;a o reduce el mapa con el zoom y ajusta su tama&ntilde;o a&nbsp;la pantalla de tu dispositivo. Tambi&eacute;n puedes clicar sobre el mapa y&nbsp;arrastrarlo para centrarlo.</p>
+</sioc:content>
+<sioc:content rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:lang="ca">
+<p>Saps situar els elements geogr&agrave;fics que et demanen? Has d&rsquo;assenyalar al mapa on es troba cada element.</p><p>Amplia o redueix el mapa amb el zoom i ajusta la seva mida a la pantalla del teu dispositiu. Tamb&eacute; pots clicar sobre el mapa i arrossegar per centrar-lo.</p>
+</sioc:content>
+<dc:creator rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">didactalia</dc:creator>
+<dcterms:created rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">2020-03-05T11:53:42+01:00</dcterms:created>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Países de América del Sur</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">Countries of South America</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="fr">Pays d'Amérique du Sud</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="it">Paesi dell'America del Sud</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="de">Die staaten Südamerikas</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="pt">Países da América do Sul</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="gl">Países de América do Sur</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="eu">Hego Amerikako herriak</dcterms:title>
+<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ca">Països d'Amèrica del Sud</dcterms:title>
+<dcterms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">
+paises-de-america-del-sur-donde-esta-mapa-de-didac.rdf.rdf
+</dcterms:source>
+<gnoss:has_docSem rdf:resource="http://didactalia.net/items/Map_55343e4e-621e-4bba-8f37-ba956a6fd5ca_31922a53-4952-43c5-aba0-48e84a5edeb9"/>
+<sioc:has_creator rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/organizacion/equipoGNOSS/"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/paises/8436956d-44b4-477a-9102-f7cebb1e2824"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/recursos/categoria/mapas-de-didactalia/c0aa86c1-9288-4ea8-a35c-fbd6565cfb43"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/argentina"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/bolivia"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/brasil"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/chile"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/colombia"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/ecuador"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/guayana%20francesa"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/guyana"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/paraguay"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/per%c3%ba"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/surinam"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/uruguay"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/venezuela"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/am%c3%a9rica%20del%20sur"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20de%20am%c3%a9rica%20del%20sur"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20de%20sudam%c3%a9rica"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/south%20american"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/pa%c3%adses%20de%20am%c3%a9rica%20del%20sur"/>
+<sioc:topic rdf:resource="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/suram%c3%a9rica"/>
+<dcterms:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+</sioc:Item>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/argentina">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">argentina</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Argentina"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3865483/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/bolivia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">bolivia</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Bolivia"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3923057/"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/11288185/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/brasil">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">brasil</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Brazil"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3469034/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/chile">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">chile</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Chile"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3895114/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/colombia">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">colombia</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Colombia"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3686110/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/ecuador">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">ecuador</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Ecuador"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3658394/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/guayana%20francesa">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">guayana francesa</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/French_Guiana"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3381670/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/guyana">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">guyana</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Guyana"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3378535/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/paraguay">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">paraguay</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Paraguay"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3437598/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/per%c3%ba">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">perú</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Peru"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3932488/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/surinam">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">surinam</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Suriname"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3382998/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/uruguay">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">uruguay</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Uruguay"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3439705/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/venezuela">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">venezuela</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Venezuela"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/3625428/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/am%c3%a9rica%20del%20sur">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">américa del sur</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/South_America"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6255150/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20de%20am%c3%a9rica%20del%20sur">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">mapa de américa del sur</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/mapa%20de%20sudam%c3%a9rica">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">mapa de sudamérica</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/south%20american">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">south american</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/South_America"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6255150/"/>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/pa%c3%adses%20de%20am%c3%a9rica%20del%20sur">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">países de américa del sur</rdfs:label>
+</sioc_t:Tag>
+<sioc_t:Tag rdf:about="https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos/busqueda/tag/suram%c3%a9rica">
+<rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal" xml:space="preserve">suramérica</rdfs:label>
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/South_America"/>
+<owl:sameAs rdf:resource="http://sws.geonames.org/6255150/"/>
+</sioc_t:Tag>
+</rdf:RDF>
